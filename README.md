@@ -93,7 +93,7 @@ This pipeline provides a computational baseline and interpretable feature reduct
 
 | Model | Accuracy |
 |-------|----------|
-| CNN | ~94% |
+| CNN | ~85% |
 | PCA + SVM | ~65% |
 | K-Fold Mean Accuracy | ~65% |
 | K-Fold Std | ~0.004 |
